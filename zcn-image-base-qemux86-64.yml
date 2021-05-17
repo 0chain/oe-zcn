@@ -1,0 +1,7 @@
+header:
+  version: 1
+  includes:
+    - zcn.yml
+
+machine: qemux86-64
+target: zcn-image-base
