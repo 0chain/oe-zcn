@@ -1,0 +1,13 @@
+header:
+  version: 1
+  includes:
+    - zcn.yml
+
+machine: raspberrypi4-64
+target: zcn-image-base
+
+repos:
+  # RPi BSP
+  meta-raspberrypi:
+    url: "git://git.yoctoproject.org/meta-raspberrypi"
+    refspec: dunfell
