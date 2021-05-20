@@ -30,5 +30,5 @@ repos:
 
   # 0chain
   meta-zcn:
-    url: "ssh://git@github.com/bernardoaraujor/meta-zcn"
+    url: "ssh://git@github.com/0chain/meta-zcn"
     refspec: dunfell
